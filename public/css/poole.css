@@ -179,7 +179,7 @@ pre code {
   background-color: transparent;
 }
 
-/* Pygments via Jekyll */
+/* rouge via Jekyll */
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
